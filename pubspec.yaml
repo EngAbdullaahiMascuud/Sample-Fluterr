@@ -1,0 +1,70 @@
+name: my_projct
+description: A new Flutter project.
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+
+dependencies:
+  multilevel_drawer: ^2.0.0
+  flutter:
+    sdk: flutter
+  
+
+
+  
+  cupertino_icons: ^1.0.2
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  
+  carousel_slider:
+
+  
+  
+   
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+ 
+  uses-material-design: true
+  assets:
+    - img/jam.jpeg
+    - img/god.jpg
+    - img/grr.jpg
+    - img/pro.png
+    - img/gr.jpg
+    - img/ss.jpg
+    - img/ra.jpg
+    - img/goo.jpg
+    - img/qlaf.jpg
+    - img/jim.jpg
+    - img/tab.jpg
+    - img/cr.jpg
+    - img/simad.png
+    - img/shaf.jpeg
+    - img/rer.jpg
+    - img/ren.png
+    - img/ma.jpeg
+    - img/east.jpg
+    - img/xik.jpg
+
+
+
+    - img/wa.png
+    
+
+ 
